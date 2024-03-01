@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QandA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a2e9e96fcefa55c9f3d24d2592bc52cd024dc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("QandA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QandA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

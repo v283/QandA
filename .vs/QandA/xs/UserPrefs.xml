@@ -1,4 +1,25 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{49EB4D86-FCA7-4162-980F-844EFC47850B}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{49EB4D86-FCA7-4162-980F-844EFC47850B}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.QandA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QandA/Program.cs">
+    <Files>
+      <File FileName="QandA/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QandA">
+            <Node name="QandA" expanded="True">
+              <Node name="Actions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
